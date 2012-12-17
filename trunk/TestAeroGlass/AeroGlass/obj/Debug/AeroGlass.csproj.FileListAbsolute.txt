@@ -1,0 +1,10 @@
+D:\Project\TestAeroGlass\AeroGlass\bin\Debug\AeroGlass.exe
+D:\Project\TestAeroGlass\AeroGlass\bin\Debug\AeroGlass.pdb
+D:\Project\TestAeroGlass\AeroGlass\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.Form1.resources
+D:\Project\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.Properties.Resources.resources
+D:\Project\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.csproj.GenerateResource.Cache
+D:\Project\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.exe
+D:\Project\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.pdb
+D:\Project\mvt-aero-glass-windows-form\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.exe
+D:\Project\mvt-aero-glass-windows-form\TestAeroGlass\AeroGlass\obj\Debug\AeroGlass.pdb
